@@ -30,6 +30,9 @@ public class VetControllerTests {
     private VetController vetController;
 
     private MockMvc mockMvc;
+    
+    // This is a Test Comment
+    String test = "Test Comment";
 
     @Before
     public void setup() {
